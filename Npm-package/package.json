@@ -1,0 +1,8 @@
+{
+"name": "@GIT-Package-Master/example-npm-package-1",
+"version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GIT-Package-Master/Github-npm-Package-Examples.git"
+  }
+}
