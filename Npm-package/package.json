@@ -1,8 +1,8 @@
 {
-  "name": "@git-package-master/example-npm-package-4",
+  "name": "@pro-developer-team/example-npm-package-1",
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GIT-Package-Master/Github-Npm-Package-Examples.git"
+    "url": "https://github.com/Pro-Developer-team/Npm-Packages.git"
   }
 }
